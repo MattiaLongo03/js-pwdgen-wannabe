@@ -9,4 +9,3 @@ let cognome = prompt('Qual è il tuo cognome?');
 let colore = prompt('Qual è il tuo colore preferuti?');
 let password = nome+cognome+colore+22;
 document.getElementById('password').innerHTML = password;
-console.log('password');
